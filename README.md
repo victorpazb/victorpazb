@@ -7,6 +7,6 @@
 
 
 
-# Technologies that I have already worked with:
+Technologies that I have already worked with:
 
 [![My Skills](https://skillicons.dev/icons?i=aws,js,html,css,docker,postman,ts,vue,mongodb,git,java)](https://skillicons.dev)

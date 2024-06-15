@@ -1,12 +1,12 @@
 
 
-- 👋 Hi there, i'm Victor Braga  
+- 👋 Hi there, I'm Victor Braga  
 - 🎓 Computer Science, UFCG 
 - 🔭 I’m currently working with full-stack web development
 - 📫 How to reach me: https://www.linkedin.com/in/victorpazbraga/
 
 
 
-Technologies that I have already worked with:
+Here are the technologies that I have contact with in my daily routine:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,js,html,css,docker,postman,ts,vue,mongodb,git,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,postman,ts,vue,mongodb,git)](https://skillicons.dev)
